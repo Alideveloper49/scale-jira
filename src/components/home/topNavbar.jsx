@@ -1,5 +1,5 @@
 const topNavbar = () => {
-    return (  );
+    return ( <></> );
 }
  
 export default topNavbar;
